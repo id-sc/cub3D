@@ -123,3 +123,11 @@ testing. Memory checks can be run with Valgrind on Linux:
 ```bash
 valgrind --leak-check=full --show-leak-kinds=all ./cub3D maps/valid_big_map.cub
 ```
+
+---
+
+### Created by
+
+Vildan Karaduman (*Vikaradu*) & Heidi Sainte-Catherine (*hesainte*)
+
+---
